@@ -386,13 +386,18 @@ Wage premium by income group, AI tool adoption by income group, and government A
 ## Repository Contents  
 
 -README.md
+
 -ai_workforce_displacement_global_2020_2026.ipynb
+
 -ai_workforce_displacement_global_2020_2026.csv
 
 
 ## How to Use
 
 -Clone/download this repository.
+
 -Open ai_workforce_displacement_global_2020_2026.ipynb in Jupyter Notebook, JupyterLab, or Google Colab.
+
 -Ensure the CSV path in the notebook points to your local copy of ai_workforce_displacement_global_2020_2026.csv.
+
 -Run all cells sequentially — each analysis question includes inline statistical commentary.
